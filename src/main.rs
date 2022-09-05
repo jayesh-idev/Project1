@@ -79,7 +79,7 @@ if data.notes.len() == 0
     }
     let mut condition:i32 =0; 
 loop{
-           println!("Enter , display , add , exit ,login");
+           println!("Enter , display , add ,delete, exit ,login");
            //println!("display");
           // println!("delete");
            //println!("add");
